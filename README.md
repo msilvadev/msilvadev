@@ -3,6 +3,12 @@
 <!--
 **msilvadev/msilvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+As a experienced Software Engineer I combine analytical skills, ability to work in team environments, and attention to details. I developed a critical thinking and problem-solving skills.
+
+My credentials include a Postgraduate in Distributed Software Architecture from the Pontifícia Universidade Católica de Minas Gerais (PUC MG), an institution of higher education as one of the top and most prestigious engineering schools in Brazil.
+
+Background in: Java, Python, Cloud Computing, Data Engineer, Data Science.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=msilvadev&repo=msilvadev&countColorcountColor)
 
 ### Analytics ⚙️
 
