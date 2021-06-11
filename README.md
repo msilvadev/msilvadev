@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="LinkedIn Background Photo.png" >
+</p>
+
 <h1>Matheus Silva</h1>
 
 As a experienced Software Engineer I combine analytical skills, ability to work in team environments, and attention to details. I developed a critical thinking and problem-solving skills.
